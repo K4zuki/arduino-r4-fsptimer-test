@@ -1,2 +1,2 @@
-SKETCH := sketch_1
+SKETCH := fsptimer_test
 BUILD_PATH := build
